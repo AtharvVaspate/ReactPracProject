@@ -1,0 +1,19 @@
+.navBarStyle{
+    display: flex;
+    align-content: flex-start;
+    list-style-type: none;
+    gap: 90px;
+}
+
+.navBarList{
+    text-decoration: none;
+    
+}
+
+li{
+    text-decoration: none;
+}
+
+.navBarList a {
+    text-decoration: none;
+  }

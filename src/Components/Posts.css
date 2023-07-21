@@ -1,0 +1,40 @@
+
+
+.cardStyle{
+    margin: 50px;
+    background-color: rgb(60, 34, 137);
+    border: 10px;
+    height: 250px;
+}
+
+
+.submitDataStyle{
+    border: 2px solid darkblue;
+    width: 300px;
+margin: auto;
+margin-top: 30px;
+    padding: 30px;
+    text-align: center;
+   
+}
+
+.buttonStyle{
+    
+ margin-left: 80px;
+}
+
+Typography{
+background-color: aqua;
+}
+
+
+.iconButtonStyle{
+   margin-left: 900px;
+}
+
+
+
+textarea{
+    width:250px;
+    height: 50px;
+}

@@ -24,9 +24,9 @@
   color: white;
 }
 
-.App-link {
+/* .App-link {
   color: #61dafb;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.headinglabels{
+  display: flex;
+    flex-wrap: wrap;
+    gap: 12.5rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.header{
+  border-top: 0px;
+}
+
